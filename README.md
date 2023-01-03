@@ -16,8 +16,9 @@ Geo Spatial Analysis Project in Python using ``matplotlib` & `folium`. Will be a
 `cd gds_1`
 
 ## 3. Create a new environment from `yml` file 
-conda env create -f geopython_environment.yml
-conda activate sds_python
+`conda env create -f geopython_environment.yml`
+
+`conda activate sds_python`
 
 ## 4. Run Notebook
-jupyter notebook
+`jupyter notebook`
